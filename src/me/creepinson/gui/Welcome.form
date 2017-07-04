@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="me.creepinson.gui.Welcome">
+  <grid id="27dc6" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="55" y="55" width="758" height="585"/>
+    </constraints>
+    <properties>
+      <background color="-16739726"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="ec219" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="1" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font size="22" style="1"/>
+          <foreground color="-3145714"/>
+          <text value="Welcome to the Creepino Code Editor"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
